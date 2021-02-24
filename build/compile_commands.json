@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/natanloterio/workspace/project_opencv/build",
+  "command": "/usr/bin/clang++  -isystem /Users/natanloterio/workspace/libs/cpp/install/include/opencv4 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -std=gnu++14 -o CMakeFiles/project_opencv.dir/main.cpp.o -c /Users/natanloterio/workspace/project_opencv/main.cpp",
+  "file": "/Users/natanloterio/workspace/project_opencv/main.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/Users/natanloterio/workspace/project_opencv/build/CMakeFiles/rebuild_cache.dir
+/Users/natanloterio/workspace/project_opencv/build/CMakeFiles/edit_cache.dir
+/Users/natanloterio/workspace/project_opencv/build/CMakeFiles/project_opencv.dir
